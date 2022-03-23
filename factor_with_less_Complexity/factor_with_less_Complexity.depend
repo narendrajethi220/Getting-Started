@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648037482 source:c:\users\black_bird\desktop\practise\getting started\factor_with_less_complexity\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+
